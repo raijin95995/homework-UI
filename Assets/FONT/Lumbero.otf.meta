@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 87008ba645b5af247b748a2187a95dc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lumbero
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80f4f55fb658c9a4aa3f1fa2398bfa4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
